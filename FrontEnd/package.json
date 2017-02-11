@@ -1,0 +1,23 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "description": "For practise purpose",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikashpisces/npm-project-sample.git"
+  },
+  "keywords": [
+    "xyz"
+  ],
+  "author": "Vikash Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikashpisces/npm-project-sample/issues"
+  },
+  "homepage": "https://github.com/vikashpisces/npm-project-sample#readme",
+  "dependencies": {}
+}
